@@ -5,7 +5,7 @@ public class PesoIdealCalculator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-String genero = "";//genero
+String genero = "";//genero de la persona
 		
 		do{
 			genero = JOptionPane.showInputDialog("Introduzca genero (H/M), por favor.");
